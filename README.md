@@ -1,5 +1,7 @@
 # Item-List-Schema-JSON-LD
 
+![examplejs](https://github.com/alexhooley/Item-List-Schema---JSON-LD/blob/master/examplejs.png)
+
 ```
 <script type="application/ld+json">
 {
@@ -44,4 +46,3 @@
 }
 </script>
 ```
-![demo](https://github.com/alexhooley/Item-List-Schema---JSON-LD/blob/master/structured%20data%20testing%20tool.png)
