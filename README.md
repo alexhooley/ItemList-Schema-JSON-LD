@@ -47,5 +47,4 @@
 </script>
 ```
 
-Minify JSON
-[https://www.cleancss.com/json-minify/](https://www.cleancss.com/json-minify/)
+Minify JSON: [https://www.cleancss.com/json-minify/](https://www.cleancss.com/json-minify/)
